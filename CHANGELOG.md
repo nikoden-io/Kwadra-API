@@ -3,19 +3,21 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-### Added
-- Create .Net 9.0 solution
-- Create **Application** class library project in solution
-- Create **API** web api project in solution
-- Create **Domain** class library project in solution
-- Create **Infrastructure** class library project in solution
-- Add required references between solution projects
+
 
 ## [0.1.0] - 2024-05-18
+### Added
+- .Net 9.0 solution
+- **Application** class library project in solution
+- **API** web api project in solution
+- **Domain** class library project in solution
+- **Infrastructure** class library project in solution
+- References between solution projects
+- LICENSE.txt
+- README.md
+- CHANGELOG.md
 
-
-
-[0.1.0]: https://github.com/...
+[0.1.0]: https://github.com/nikoden-io/Kwadra-API
 
 --- 
 

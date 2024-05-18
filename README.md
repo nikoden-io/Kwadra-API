@@ -44,7 +44,7 @@ API content:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-TBD
+- .Net - SDK 9.0.100-preview.3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
