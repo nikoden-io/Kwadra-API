@@ -52,7 +52,7 @@ TBD
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU Affero General Public License v3.0. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
